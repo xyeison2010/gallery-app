@@ -1,6 +1,7 @@
 # Gallery web 
 
-This is a mostly CSS driven challenges with a little bit of JS for toggling class. I love work `flex` and `transition` together to increase the image size on mouseover, simple but powerful! (Beautiful photos from [Unsplash](https://unsplash.com/))
+Este es un desafío impulsado principalmente por CSS con un poco de JS para alternar la clase. Me encanta trabajar flexy transitionjuntos aumentar el tamaño de la imagen al pasar el mouse,
+ ¡simple pero poderoso! (Hermosas fotos de Unsplash )
 
 [**View Demo**](https://pamcy.github.io/50Websites/34-expanding-gallery/)
 
