@@ -1,4 +1,4 @@
-# Expanding image gallery with Flexbox
+# Gallery web 
 
 This is a mostly CSS driven challenges with a little bit of JS for toggling class. I love work `flex` and `transition` together to increase the image size on mouseover, simple but powerful! (Beautiful photos from [Unsplash](https://unsplash.com/))
 
